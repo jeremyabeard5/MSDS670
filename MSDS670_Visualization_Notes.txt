@@ -1,0 +1,102 @@
+MSDS 670 Data Visualization 
+
+Week 1
+	Storytelling with Data: Cole Nussbaumer
+		https://www.youtube.com/watch?v=8EMW7io4rSI
+		
+		Cole started at Google at 2007
+			Analytics Team
+		Wanted to make decisions about people, data-driven
+		Taught Data Visualization course
+		Skills needed are fundamental
+		HATES PIE CHARTS
+		Why aren't they acting with the information I'm giving them?
+		Visualization skills aren't role-specific 
+			her book, "Storytelling with Data"
+		Make data a pivotal point in a story
+		Project Oxygen: numericizing why managers are effective
+			difficult to communicate the results
+		utilizing brain's "iconic memory" by leveraging color changes
+		leverage different charts for numerical vs. categorical data (easily comparable = numeric)
+		"Where Are Your Eyes Drawn" test
+		Trying to emphasize multiple things creates tension in the audience
+		Don't Cry Wolf = Don't Show Boring Ineffective Data
+		informationisbeautiful.net
+		"is there an overarching story that can weave all these pieces together?"
+		start with just axes, then on next slide add data, then next slide add color
+		avoid shades of red and shades of green together
+		gray and blue
+		color when used sparingly and strategically is one of the most powerful tools
+	
+	Storytelling with Data (BOOK)
+		6 lessons
+			1  Understand the context
+			2  Choose an appropriate visual display
+			3  Eliminate clutter
+			4  Focus attention where you want it
+			5  Think like a designer
+			6  Tell a story
+			
+	Assignment
+	
+	
+Week 2
+	Data Ink Ratio https://www.youtube.com/watch?v=pCp0a5_YIWE
+		Remove borders, gridlines, axes, unnecessary color
+		
+	Remove to Improve: Line Graphs: https://www.youtube.com/watch?v=bDbJBWvonVI
+		Remove axes, borders, integrate legend, use color to either completely differentiate or to highline one line
+		
+	Edward Tufte: Envisioning & Designing Data
+		Born 1942
+		Yale Uni
+		
+	Does Powerpoint Make You Stupid?
+		Tufte slanders powerpoint without really knowing what it does
+		Really the monotony is the con
+		Powerpoint is not to blame, it's the worker who uses it
+		
+	Edward Tufte & Information Design for the Web
+		"The goal is to clarify, [to make the information understandable]"
+		"what can be eliminated?"
+		Above all else, show the data
+		
+	Edward Tufte: analyst of analytical design
+		Must tell the truth in data
+		The lie factor: size of effect shown divided by size of effect in actual data
+			Don't let the graph overstate the effect
+		Maximize the data-ink ratio
+			Erase non-data ink
+		Aim for high data density
+		If a chart is too cluttered, don't remove data --> change the design
+		
+	Edward R Tufte - the 'Information Man'
+		
+	Talking about Dashboards
+	
+	History of Data Visualization
+		Timeline
+		
+		
+The more I read about Edward Tufte, the more I see him associated with the "sparkline" (CITATION), the small trendline that can help to annotate a thought via data, or to show a small relationship between two variables within a passage of text. Edward Tufte seems to be one of the main godfathers of data visualization and data analytics and I'm very interested in reading his book (CITATION) after researching him a bit.
+
+Certainly we have been exposed to concepts which have come directly or indirectly from Tufte already. One aspect of his coverage online was this aspect of "telling the truth with data", or always trying to be the most objective when presenting data. Any bias or stretch of the truth can lead to one's credibility suffering for years and years.
+
+I agreed with the principle of always trying to tell the absolute truth with the data. The concept of high data density and maximizing this "data-ink ratio" also resonated with me in that removing clutter should be one of the main principles of a data scientist. Only displaying the data and helping to draw complex conclusions from the data is one of the main objectives in presenting data to a population.
+
+
+Thank you,
+
+
+Jeremy
+
+
+References:
+
+
+Evolytics-P. (2020). Tableau 201: How to Make Sparklines. Evolytics. https://evolytics.com/blog/tableau-201-how-to-make-sparklines/
+
+			
+		
+
+			
