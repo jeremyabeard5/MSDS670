@@ -30,9 +30,9 @@ dpi = 300
 
 # if you are on windows, you are going to have to change the file path to
 # windows style
-project_dir = r'/home/md33a/Python Projects/matplotlib1_examples/'
-data_dir = project_dir + r'data/'
-output_dir = project_dir + r'output/'
+project_dir = r'C:\\Users\\jerem\\OneDrive\\Documents\\School\\_REGIS\\2023-05_Summer\\MSDS670\\MSDS670\\Week5\\matplotlib1_examples-main\\matplotlib1_examples-main\\'
+data_dir = project_dir + r'data\\'
+output_dir = project_dir + r'output\\'
 
 #%%
 # Bar Chart - Hospitals
