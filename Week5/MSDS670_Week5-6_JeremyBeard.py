@@ -34,8 +34,8 @@ df['Amount'] = df['Amount'].str.replace(',', '')
 df.drop(df[df['Amount'].str.contains('\(')].index, inplace=True)
 df['Amount'] = df['Amount'].astype(float)
 
-print('Loaded data')
-
+#Get some info on the data
+print('LOADED DATA INFO: ')
 print(df.head())
 print(df.info())
 
