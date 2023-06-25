@@ -99,4 +99,5 @@ Evolytics-P. (2020). Tableau 201: How to Make Sparklines. Evolytics. https://evo
 			
 		
 
-			
+conda update -n base -c defaults conda
+conda install -c conda-forge cartopy
